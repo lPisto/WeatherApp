@@ -1,0 +1,3 @@
+https://www.weatherapi.com/api-explorer.aspx#forecast
+https://github.com/celomary/WeatherApp/tree/master/src
+https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv
